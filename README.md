@@ -15,7 +15,9 @@ This project demonstrates the practical integration of React components, real-ti
 - Click a profile to highlight its location on the map
 - Search or filter through profiles
 - Built using modern React with TypeScript and Tailwind CSS
-## Demo
+## Preview
+![Screenshot](https://github.com/i-shreya/Profile-Explorer/blob/main/Screenshot%202025-05-25%20145952.png)
+![Screenshot](https://github.com/i-shreya/Profile-Explorer/blob/main/Screenshot%202025-05-25%20150019.png)
 
 
 
